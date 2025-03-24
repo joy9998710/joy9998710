@@ -12,3 +12,6 @@
 📸 Computer Vision     
 🚗 Autonomous Driving    
 🧩 Segmentation    
+
+### 📫 Contact
+📧 [joy999871@gmail.com](mailto:joy999871@gmail.com)  
