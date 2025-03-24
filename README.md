@@ -1,14 +1,14 @@
 ## Hi I AM JOONYOUNG MOON
 
-🎓 **Education**    
+### 🎓 **Education**    
 🏫 Hanyang University   
 📚 B.S. in Computer Science   
 🗓️ 2022.03 ~ 2026.02 (Expected Graduation)   
 
-📍 **Location**   
+### 📍 **Location**   
 📌 Seoul, South Korea   
 
-💻 **Interests**   
+### 💻 **Research Interests**   
 📸 *Computer Vision*     
 🚗 *Autonomous Driving*    
 🧩 *Segmentation*    
