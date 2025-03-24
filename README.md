@@ -1,4 +1,4 @@
-# Hi I AM JOONYOUNG MOOn
+## Hi I AM JOONYOUNG MOON
 
 🎓 **Education**  
 🏫 Hanyang University
