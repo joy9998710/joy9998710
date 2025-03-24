@@ -9,6 +9,6 @@
 📌 Seoul, South Korea   
 
 ### 💻 **Research Interests**   
-📸 *Computer Vision*     
-🚗 *Autonomous Driving*    
-🧩 *Segmentation*    
+📸 Computer Vision     
+🚗 Autonomous Driving    
+🧩 Segmentation    
